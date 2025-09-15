@@ -1,0 +1,27 @@
+izbroj razlicite klase                                          2
+podeli skup na deo za trening i testiranje                      2
+da li je skup balansiran                                        1
+SMOTE algoritam                                                 1
+SVM algoritam (linearni i rbf kernel)                           1
+PCA algoritam za smanjenje dimenzije, ovucan udeo varijanse     3
+iscrtati grafik                                                 2
+confusion matrix / accuracy score                               3
+ogranici borj isntanci, vodeci racuna o raspodeli klasa         1
+pretvori tekstualne podatke u TF-IDF matricu                    1
+da li je potrebno dodatno pretprocesiranje, kada je potrebno    2
+K-means                                                         2
+hijerarhijsko klasterovanje                                     1
+silutea koeficijenti za klasterovanje, silutea podpitanja       1
+ima li nedostajucih vrendosti, ako ima ukloni                   3
+C5.0 algoritam                                                  2
+dendogram                                                       1
+apriori algoritam                                               2
+koliko pravila, koliko zanimljivih pravila                      1
+standardizovati podatke                                         1
+dbscan algoritam                                                1
+knn                                                             1
+GridSearchCV                                                    1
+stablo odlucivanja                                              1
+
++ osnovne statistike    (treba da se zna svakako samo .describe)
++ kenjanje podpitanja
